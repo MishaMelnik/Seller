@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>618442828026-ikj1ivj0cb9b5nes05ec2cn9glrda7ek.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.618442828026-ikj1ivj0cb9b5nes05ec2cn9glrda7ek</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCFgOtb3lEwoIF3Ysba0VRNRvwBSWX4ljQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>618442828026</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.perfumesbarsellerapp</string>
+	<key>PROJECT_ID</key>
+	<string>perfume-4a933</string>
+	<key>STORAGE_BUCKET</key>
+	<string>perfume-4a933.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:618442828026:ios:bab59d1b47f89ed1</string>
+	<key>DATABASE_URL</key>
+	<string>https://perfume-4a933.firebaseio.com</string>
+</dict>
+</plist>
